@@ -1,4 +1,4 @@
-# Prediction-of-social-network-
+# Prediction-of-social-network using metaheurestic techniques
 The project's motivation lies in addressing the complexity and dynamic nature of influence
 networks by leveraging the optimization capabilities of genetic algorithms.
 
